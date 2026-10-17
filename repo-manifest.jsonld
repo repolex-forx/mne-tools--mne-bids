@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mne-tools/mne-bids/commit/085e309b9f3a2b66e3cd668db9f2a234da9156d0",
       "git:hexsha": "085e309b9f3a2b66e3cd668db9f2a234da9156d0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/mne-tools/mne-bids/commit/c43822ef754b58b28ccc8d90af565d1681ac5851",
